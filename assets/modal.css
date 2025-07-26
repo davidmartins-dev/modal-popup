@@ -89,3 +89,12 @@ button {
 .modal-content h2 {
     margin-top: 6.5rem;
 }
+
+footer .container {
+    flex-direction: column;
+    margin-top: 5rem;
+}
+
+footer p {
+    margin-top: 1rem;
+}
